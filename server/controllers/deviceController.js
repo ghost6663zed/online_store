@@ -1,4 +1,4 @@
-class TypeController {
+class DeviceController {
     async create(req, res) {
 
     }
@@ -15,4 +15,4 @@ class TypeController {
 
 }
 
-module.exports = new TypeController()
+module.exports = new DeviceController()
