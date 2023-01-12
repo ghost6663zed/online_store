@@ -45,6 +45,7 @@ class UserController {
     }
 
     async check(req, res, next) {
+        res.json({message: "all right"})
 
 
     }
